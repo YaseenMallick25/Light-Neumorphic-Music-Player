@@ -1,4 +1,4 @@
-# Neumorphic-Music-Player
+# Light Neumorphic-Music-Player
 
 ![Image](/LightNeuMusic.png)
 
